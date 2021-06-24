@@ -6,6 +6,30 @@
 
 其中不仅限于突破安全壁垒的大型工具，也会包括涉及到优化日常使用体验的各种小工具，除了404本身的工具开放以外，也会不断收集安全研究、渗透测试过程中的痛点，希望能通过“404星链计划”改善安全圈内工具庞杂、水平层次不齐、开源无人维护的多种问题，营造一个更好更开放的安全工具促进与交流的技术氛围。
 
+# Update
+
+这里会更新最近涉及更新的项目
+
+- 2021.5.10 [**GShark**](https://github.com/madneal/gshark)
+
+   ​	[GShark](https://github.com/madneal/gshark)更新v0.8.3
+
+- 2021.5.9 [**Viper**](https://github.com/FunnyWolf/Viper)
+
+   ​	[Viper](https://github.com/FunnyWolf/Viper)更新v1.3.6
+
+- 2021.5.6 [**fscan**](https://github.com/shadow1ng/fscan)
+
+   ​	[fscan](https://github.com/shadow1ng/fscan)更新v1.6.0
+
+- 2021.4.22 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
+
+   ​	星链计划2.0-Galaxy 收录[**Elkeid**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#Elkeid)、[**fscan**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#fscan)、[**As-Exploits**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#As-Exploits)。
+
+- 2021.3.23 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
+
+   ​	星链计划2.0-Galaxy 收录[**linglong**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#linglong-)、[**Viper**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#viper-)、[**CodeReviewTools**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#codereviewtools-)。
+
 # Contents
 
 - 信息收集
@@ -49,10 +73,11 @@
        * 一个简单的用于快速挖掘二进制文件中敏感信息的脚本
    * [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cookietest)
        * 用于快速测试api或某个请求的必选参数、cookie的脚本.
+
  	* [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ipstatistics)
-        	* ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
-  	* [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
-        	* cidrgen基于cidr的子网IP列表生成器
+ 	    	* ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
+ 	* [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
+ 	    	* cidrgen基于cidr的子网IP列表生成器
 
 
 # Loading
